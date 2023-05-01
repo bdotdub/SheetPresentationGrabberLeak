@@ -1,5 +1,9 @@
 # SheetPresentationGrabberLeak
 
+**Radar**: [rdar://FB12159275](https://openradar.appspot.com/radar?id=5564859458519040)
+
+---
+
 This is a Demo app that shows `prefersGrabberVisible` results in a memory leak when using `UIModalPresentationStyle.pageSheet`.
 
 This project allows you to present a dummy view controller with and without `prefersGrabberVisible`. Debugging the Memory Graph shows leaks only when `prefersGrabberVisible` is set to `true`
