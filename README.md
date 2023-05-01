@@ -8,3 +8,6 @@ This project allows you to present a dummy view controller with and without `pre
 
 https://user-images.githubusercontent.com/5719/235508306-c2bc54b3-66a0-4050-88d7-04c391615824.mov
 
+### Sample Memory Graph
+
+<img width="1247" alt="image" src="https://user-images.githubusercontent.com/5719/235508901-b040f607-d7ad-44df-986b-b347482695ed.png">
